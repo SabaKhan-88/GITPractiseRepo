@@ -1,1 +1,2 @@
 This is mu git practise file
+Fixing a typo in this file.
